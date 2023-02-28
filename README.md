@@ -11,13 +11,12 @@ Email: szalai.p@gmail.com
 {project-name}: {link-to-repo}
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
-LeetCode: https://leetcode.com/{username}
 
-[My Hackerrank](https://www.hackerrank.com/szalai_p)
+[Hackerrank](https://www.hackerrank.com/szalai_p)
 
-freeCodeCamp: https://www.freecodecamp.org/fcc2758f637-490b-46f4-b537-9fbd7a2e1ddd
+[freeCodeCamp](https://www.freecodecamp.org/fcc2758f637-490b-46f4-b537-9fbd7a2e1ddd)
 
-Edabit: https://edabit.com/user/nFbmNzMQ38TncmfQX
+[Edabit](https://edabit.com/user/nFbmNzMQ38TncmfQX)
 
 ## &rarr; [Interview tests](https://github.com/green-fox-academy/teaching-materials/tree/master/project-phase/tech-interview-tests)
 Upload your solutions as files into interview-tests/ directory
